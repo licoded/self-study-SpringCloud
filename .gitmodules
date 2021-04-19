@@ -1,0 +1,3 @@
+[submodule "springcloud"]
+	path = springcloud
+	url = https://gitee.com/licoded/springcloud.git
